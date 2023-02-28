@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  18 FEB 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  28 FEB 2023 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/vampire/Documents/Latex-main/report-1.tex
-(/home/vampire/Documents/Latex-main/report-1.tex
+**/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex
+(/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-02> (/home/vampire/.miktex/texmfs/install/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
@@ -342,84 +342,79 @@ Overfull \hbox (8.40431pt too wide) in paragraph at lines 109--110
 
 ]
 Chapter 2.
-<type.jpg, id=20, 273.73062pt x 100.41054pt>
-File: type.jpg Graphic file (type jpg)
-<use type.jpg>
-Package pdftex.def Info: type.jpg  used on input line 118.
-(pdftex.def)             Requested size: 298.75264pt x 109.59238pt.
+<flipper-zero.png, id=20, 1606.0pt x 903.375pt>
+File: flipper-zero.png Graphic file (type png)
+<use flipper-zero.png>
+Package pdftex.def Info: flipper-zero.png  used on input line 118.
+(pdftex.def)             Requested size: 298.75264pt x 168.0453pt.
 
-Overfull \hbox (8.14996pt too wide) in paragraph at lines 114--121
-\OT1/cmr/m/n/12 encryption schemes, such as fully homomorphic encryption and partially homomorphic
- []
-
-
-Overfull \hbox (8.08469pt too wide) in paragraph at lines 124--125
-\OT1/cmr/m/n/12 of computations to be performed on encrypted data, such as addition or multiplication.
+Overfull \hbox (2.5667pt too wide) in paragraph at lines 122--123
+\OT1/cmr/m/n/12 Flipper Zero is designed to perform various hacking tasks, including sniffing, spoofing,
  []
 
 [3
 
- <./type.jpg>] [4]
+ <./flipper-zero.png>] [4]
 Chapter 3.
 <he.jpg, id=28, 219.82124pt x 117.43875pt>
 File: he.jpg Graphic file (type jpg)
 <use he.jpg>
-Package pdftex.def Info: he.jpg  used on input line 133.
+Package pdftex.def Info: he.jpg  used on input line 144.
 (pdftex.def)             Requested size: 298.75264pt x 159.61241pt.
 
-Overfull \hbox (3.44585pt too wide) in paragraph at lines 129--136
+Overfull \hbox (3.44585pt too wide) in paragraph at lines 140--147
 \OT1/cmr/m/n/12 and development, with many different approaches proposed and evaluated.In addition
  []
 
 
-Overfull \hbox (15.19572pt too wide) in paragraph at lines 137--138
+Overfull \hbox (15.19572pt too wide) in paragraph at lines 148--149
 \OT1/cmr/m/n/12 Homomorphic encryption can be broadly categorized into two types: fully homomorphic
  []
 
 [5
 
  <./he.jpg>]
-Overfull \hbox (3.78438pt too wide) in paragraph at lines 139--140
+Overfull \hbox (3.78438pt too wide) in paragraph at lines 150--151
 \OT1/cmr/m/n/12 processed without revealing its underlying content. However, FHE is computationally
  []
 
 
-Overfull \hbox (25.12201pt too wide) in paragraph at lines 141--142
+Overfull \hbox (25.12201pt too wide) in paragraph at lines 152--153
 \OT1/cmr/m/n/12 set of computations to be performed on encrypted data, such as addition or multiplication.
  []
 
 
-Overfull \hbox (18.92525pt too wide) in paragraph at lines 145--146
+Overfull \hbox (18.92525pt too wide) in paragraph at lines 156--157
 []\OT1/cmr/m/n/12 In conclusion, the choice between FHE and PHE depends on the specific requirements
  []
 
 [6]
-Overfull \hbox (10.10828pt too wide) in paragraph at lines 153--154
+Overfull \hbox (10.10828pt too wide) in paragraph at lines 164--165
 \OT1/cmr/m/n/12 complex process, involving the use of complex mathematical algorithms and encryption
  []
 
 <algo.png, id=36, 853.1875pt x 445.665pt>
 File: algo.png Graphic file (type png)
 <use algo.png>
-Package pdftex.def Info: algo.png  used on input line 160.
+Package pdftex.def Info: algo.png  used on input line 171.
 (pdftex.def)             Requested size: 298.75264pt x 156.05309pt.
 [7]
-Overfull \hbox (4.71423pt too wide) in paragraph at lines 165--166
+Overfull \hbox (4.71423pt too wide) in paragraph at lines 176--177
 \OT1/cmr/m/n/12 algorithm should determine the level of confidentiality provided by the algorithm
  []
 
 [8 <./algo.png>]
-Overfull \hbox (2.59065pt too wide) in paragraph at lines 173--174
+Overfull \hbox (2.59065pt too wide) in paragraph at lines 184--185
 []\OT1/cmr/m/n/12 Efficiency: The efficiency of an encryption algorithm refers to the computational
  []
 
 <security.png, id=45, 313.17pt x 162.6075pt>
 File: security.png Graphic file (type png)
 <use security.png>
-Package pdftex.def Info: security.png  used on input line 178.
+Package pdftex.def Info: security.png  used on input line 189.
 (pdftex.def)             Requested size: 298.75264pt x 155.12631pt.
 
-Overfull \hbox (15.22385pt too wide) in paragraph at lines 185--186
+Overfull \hbox (15.22385pt too wide) in paragraph at lines 196--197
 \OT1/cmr/m/n/12 should be taken into account, including the processing time required for encryption
  []
 
@@ -441,15 +436,15 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5326 strings out of 478309
- 84651 string characters out of 5840434
+ 5325 strings out of 478309
+ 84769 string characters out of 5840434
  1856346 words of memory out of 5000000
- 25398 multiletter control sequences out of 15000+600000
+ 25397 multiletter control sequences out of 15000+600000
  519299 words of font info for 56 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 57i,12n,62p,865b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,62p,876b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (14 pages, 388676 bytes).
+Output written on report-1.pdf (14 pages, 2830801 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
