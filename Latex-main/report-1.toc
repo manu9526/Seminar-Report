@@ -1,10 +1,10 @@
 \contentsline {paragraph}{ }{1}{}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{2}{}%
 \contentsline {paragraph}{}{2}{}%
-\contentsline {chapter}{\numberline {2}KEY FEATURES OF FLIPPER ZERO}{3}{}%
+\contentsline {chapter}{\numberline {2}DESIGN AND FEATURES}{3}{}%
 \contentsline {section}{\numberline {2.1}Multifunctional}{3}{}%
-\contentsline {section}{\numberline {2.2}Portable}{3}{}%
-\contentsline {section}{\numberline {2.3}Open-Source}{3}{}%
+\contentsline {section}{\numberline {2.2}Portable}{4}{}%
+\contentsline {section}{\numberline {2.3}Open-Source}{4}{}%
 \contentsline {section}{\numberline {2.4}User-friendly}{4}{}%
 \contentsline {section}{\numberline {2.5}Modular}{4}{}%
 \contentsline {section}{\numberline {2.6}Long Battery Life}{4}{}%
