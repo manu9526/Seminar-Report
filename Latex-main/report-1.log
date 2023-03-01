@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  1 MAR 2023 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  1 MAR 2023 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,6 +221,9 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 
 LaTeX Warning: Label `fig:type.png' multiply defined.
 
+
+LaTeX Warning: Label `fig:type.png' multiply defined.
+
 )
 \openout1 = `report-1.aux'.
 
@@ -364,16 +367,31 @@ Package pdftex.def Info: fun.png  used on input line 143.
 [5
 
  <./fun.png>]
-Chapter 4.
-[6
+Overfull \hbox (8.37636pt too wide) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 Flipper Zero can block or disrupt wireless communications between devices, preventing
+ []
 
-]
-Chapter 5.
+[6]
+Chapter 4.
+<Sub-GHz.png, id=37, 2288.55pt x 1195.46625pt>
+File: Sub-GHz.png Graphic file (type png)
+<use Sub-GHz.png>
+Package pdftex.def Info: Sub-GHz.png  used on input line 162.
+(pdftex.def)             Requested size: 298.75264pt x 156.0545pt.
 [7
+
+ <./Sub-GHz.png>]
+Chapter 5.
+
+Overfull \hbox (3.80696pt too wide) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 Flipper Zero is a versatile, open-source hacking device that combines multiple features
+ []
+
+[8
 
 ]
 Chapter 6.
-[8
+[9
 
 ] (report-1.aux)
 
@@ -385,17 +403,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5305 strings out of 478309
- 84504 string characters out of 5840434
- 1855346 words of memory out of 5000000
- 25381 multiletter control sequences out of 15000+600000
+ 5312 strings out of 478309
+ 84612 string characters out of 5840434
+ 1857346 words of memory out of 5000000
+ 25387 multiletter control sequences out of 15000+600000
  518962 words of font info for 55 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 57i,12n,62p,729b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,62p,833b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (10 pages, 2997176 bytes).
+Output written on report-1.pdf (11 pages, 3684650 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

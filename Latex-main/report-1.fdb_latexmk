@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1677661787 "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" "report-1.pdf" "report-1" 1677661788 0
+["pdflatex"] 1677689454 "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" "report-1.pdf" "report-1" 1677689456 0
   "/home/vampire/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1677599356 27276 b3565ea480a0b6a14f29b8a5280eba88 ""
   "/home/vampire/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1676727680 19995588 60169692d9e463fd391f641000bbafd7 ""
   "/home/vampire/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1676727753 1004 54797486969f23fa377b128694d548df ""
@@ -63,13 +63,14 @@
   "/home/vampire/.miktex/texmfs/install/tex/latex/setspace/setspace.sty" 1676727750 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/home/vampire/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty" 1676727724 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "/home/vampire/.miktex/texmfs/install/tex/latex/url/url.sty" 1676727756 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" 1677661784 9121 e508366a8b067a8f5a3e35ebc7b74c86 ""
+  "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" 1677689451 10463 b4c5729c55ad94c1fad5b13d231e5816 ""
+  "Sub-GHz.png" 1677688715 822059 ac90e914be87ca1ff1630cc39c69f498 ""
   "flipper-zero.png" 1677599508 1765303 35f54207c10b315c2571b50a16408322 ""
   "fun.png" 1675128582 338986 69d97aaf1a2c69323b642081c969ad1c ""
   "logo.png" 1676746897 155075 6f576a4480691240d5da3ae796073384 ""
-  "report-1.aux" 1677661788 2241 d8f9b592e3f32c2144d93340d83f45a5 "pdflatex"
-  "report-1.tex" 1677661784 9121 e508366a8b067a8f5a3e35ebc7b74c86 ""
-  "report-1.toc" 1677661788 960 550cac944562d874e2a5b36cdda1e3ed "pdflatex"
+  "report-1.aux" 1677689456 3187 e7044ef17b8914a62d69316b547a7769 "pdflatex"
+  "report-1.tex" 1677689451 10463 b4c5729c55ad94c1fad5b13d231e5816 ""
+  "report-1.toc" 1677689456 1503 3e272ba7ca684db17f667eac63713215 "pdflatex"
   (generated)
   "report-1.aux"
   "report-1.log"

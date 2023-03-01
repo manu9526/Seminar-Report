@@ -11,7 +11,16 @@
 \contentsline {section}{\numberline {2.7}Connectivity}{4}{}%
 \contentsline {section}{\numberline {2.8}Security}{4}{}%
 \contentsline {chapter}{\numberline {3}FUNCTIONALITY}{5}{}%
-\contentsline {section}{\numberline {3.1}}{5}{}%
-\contentsline {chapter}{\numberline {4}APPLICATIONS}{6}{}%
-\contentsline {chapter}{\numberline {5}CONCLUSIONS}{7}{}%
-\contentsline {chapter}{\numberline {6}REFERENCES}{8}{}%
+\contentsline {section}{\numberline {3.1}Sniffing}{5}{}%
+\contentsline {section}{\numberline {3.2}Spoofing}{6}{}%
+\contentsline {section}{\numberline {3.3}Jamming}{6}{}%
+\contentsline {section}{\numberline {3.4}Cracking}{6}{}%
+\contentsline {section}{\numberline {3.5}Physical Security Testing}{6}{}%
+\contentsline {chapter}{\numberline {4}EXPLORING FLIPPER ZERO}{7}{}%
+\contentsline {section}{\numberline {4.1}Sub-GHz}{7}{}%
+\contentsline {section}{\numberline {4.2}NFC}{7}{}%
+\contentsline {section}{\numberline {4.3}125kHz RFID}{7}{}%
+\contentsline {section}{\numberline {4.4}Infrared}{7}{}%
+\contentsline {section}{\numberline {4.5}iButton}{7}{}%
+\contentsline {chapter}{\numberline {5}CONCLUSIONS}{8}{}%
+\contentsline {chapter}{\numberline {6}REFERENCES}{9}{}%
