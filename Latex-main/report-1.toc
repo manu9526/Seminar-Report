@@ -11,6 +11,7 @@
 \contentsline {section}{\numberline {2.7}Connectivity}{4}{}%
 \contentsline {section}{\numberline {2.8}Security}{4}{}%
 \contentsline {chapter}{\numberline {3}FUNCTIONALITY}{5}{}%
+\contentsline {section}{\numberline {3.1}}{5}{}%
 \contentsline {chapter}{\numberline {4}APPLICATIONS}{6}{}%
 \contentsline {chapter}{\numberline {5}CONCLUSIONS}{7}{}%
 \contentsline {chapter}{\numberline {6}REFERENCES}{8}{}%
