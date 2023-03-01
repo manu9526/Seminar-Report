@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  1 MAR 2023 14:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  1 MAR 2023 14:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,75 +356,24 @@ Overfull \hbox (2.5667pt too wide) in paragraph at lines 122--123
 
  <./flipper-zero.png>] [4]
 Chapter 3.
-<he.jpg, id=28, 219.82124pt x 117.43875pt>
-File: he.jpg Graphic file (type jpg)
-<use he.jpg>
-Package pdftex.def Info: he.jpg  used on input line 144.
-(pdftex.def)             Requested size: 298.75264pt x 159.61241pt.
-
-Overfull \hbox (3.44585pt too wide) in paragraph at lines 140--147
-\OT1/cmr/m/n/12 and development, with many different approaches proposed and evaluated.In addition
- []
-
-
-Overfull \hbox (15.19572pt too wide) in paragraph at lines 148--149
-\OT1/cmr/m/n/12 Homomorphic encryption can be broadly categorized into two types: fully homomorphic
- []
-
+<fun.png, id=28, 1017.8025pt x 658.46pt>
+File: fun.png Graphic file (type png)
+<use fun.png>
+Package pdftex.def Info: fun.png  used on input line 143.
+(pdftex.def)             Requested size: 298.75264pt x 193.26942pt.
 [5
 
- <./he.jpg>]
-Overfull \hbox (3.78438pt too wide) in paragraph at lines 150--151
-\OT1/cmr/m/n/12 processed without revealing its underlying content. However, FHE is computationally
- []
-
-
-Overfull \hbox (25.12201pt too wide) in paragraph at lines 152--153
-\OT1/cmr/m/n/12 set of computations to be performed on encrypted data, such as addition or multiplication.
- []
-
-
-Overfull \hbox (18.92525pt too wide) in paragraph at lines 156--157
-[]\OT1/cmr/m/n/12 In conclusion, the choice between FHE and PHE depends on the specific requirements
- []
-
-[6]
-Overfull \hbox (10.10828pt too wide) in paragraph at lines 164--165
-\OT1/cmr/m/n/12 complex process, involving the use of complex mathematical algorithms and encryption
- []
-
-<algo.png, id=36, 853.1875pt x 445.665pt>
-File: algo.png Graphic file (type png)
-<use algo.png>
-Package pdftex.def Info: algo.png  used on input line 171.
-(pdftex.def)             Requested size: 298.75264pt x 156.05309pt.
-[7]
-Overfull \hbox (4.71423pt too wide) in paragraph at lines 176--177
-\OT1/cmr/m/n/12 algorithm should determine the level of confidentiality provided by the algorithm
- []
-
-[8 <./algo.png>]
-Overfull \hbox (2.59065pt too wide) in paragraph at lines 184--185
-[]\OT1/cmr/m/n/12 Efficiency: The efficiency of an encryption algorithm refers to the computational
- []
-
-<security.png, id=45, 313.17pt x 162.6075pt>
-File: security.png Graphic file (type png)
-<use security.png>
-Package pdftex.def Info: security.png  used on input line 189.
-(pdftex.def)             Requested size: 298.75264pt x 155.12631pt.
-
-Overfull \hbox (15.22385pt too wide) in paragraph at lines 196--197
-\OT1/cmr/m/n/12 should be taken into account, including the processing time required for encryption
- []
-
-[9 <./security.png>] [10]
+ <./fun.png>]
 Chapter 4.
-[11
+[6
 
 ]
 Chapter 5.
-[12
+[7
+
+]
+Chapter 6.
+[8
 
 ] (report-1.aux)
 
@@ -436,17 +385,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5325 strings out of 478309
- 84769 string characters out of 5840434
- 1856346 words of memory out of 5000000
- 25397 multiletter control sequences out of 15000+600000
- 519299 words of font info for 56 fonts, out of 8000000 for 9000
+ 5305 strings out of 478309
+ 84504 string characters out of 5840434
+ 1855346 words of memory out of 5000000
+ 25381 multiletter control sequences out of 15000+600000
+ 518962 words of font info for 55 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 57i,12n,62p,876b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (14 pages, 2831343 bytes).
+ 57i,12n,62p,729b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on report-1.pdf (10 pages, 2997141 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
