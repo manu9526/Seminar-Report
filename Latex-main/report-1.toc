@@ -19,8 +19,8 @@
 \contentsline {chapter}{\numberline {4}EXPLORING FLIPPER ZERO}{7}{}%
 \contentsline {section}{\numberline {4.1}Sub-GHz}{7}{}%
 \contentsline {section}{\numberline {4.2}NFC}{7}{}%
-\contentsline {section}{\numberline {4.3}125kHz RFID}{7}{}%
-\contentsline {section}{\numberline {4.4}Infrared}{7}{}%
-\contentsline {section}{\numberline {4.5}iButton}{7}{}%
-\contentsline {chapter}{\numberline {5}CONCLUSIONS}{8}{}%
-\contentsline {chapter}{\numberline {6}REFERENCES}{9}{}%
+\contentsline {section}{\numberline {4.3}125kHz RFID}{8}{}%
+\contentsline {section}{\numberline {4.4}Infrared}{8}{}%
+\contentsline {section}{\numberline {4.5}iButton}{8}{}%
+\contentsline {chapter}{\numberline {5}CONCLUSIONS}{9}{}%
+\contentsline {chapter}{\numberline {6}REFERENCES}{10}{}%
