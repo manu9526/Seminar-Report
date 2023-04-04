@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  1 MAR 2023 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  4 APR 2023 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -383,7 +383,7 @@ Package pdftex.def Info: Sub-GHz.png  used on input line 162.
  <./Sub-GHz.png>]
 Chapter 5.
 
-Overfull \hbox (3.80696pt too wide) in paragraph at lines 170--171
+Overfull \hbox (3.80696pt too wide) in paragraph at lines 171--172
 \OT1/cmr/m/n/12 Flipper Zero is a versatile, open-source hacking device that combines multiple features
  []
 
@@ -411,7 +411,7 @@ Here is how much of TeX's memory you used:
  0 hyphenation exceptions out of 8191
  57i,12n,62p,833b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (11 pages, 3684650 bytes).
+Output written on report-1.pdf (11 pages, 3685050 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
