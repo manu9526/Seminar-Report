@@ -455,6 +455,13 @@ INPUT ./Bank_card.png
 INPUT ./Bank_card.png
 INPUT ./Bank_card.png
 INPUT ./Bank_card.png
+INPUT ./Unknown_card.png
+INPUT ./Unknown_card.png
+INPUT Unknown_card.png
+INPUT ./Unknown_card.png
+INPUT ./Unknown_card.png
+INPUT ./Unknown_card.png
+INPUT ./Unknown_card.png
 INPUT report-1.aux
 INPUT /home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk
 INPUT /home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk

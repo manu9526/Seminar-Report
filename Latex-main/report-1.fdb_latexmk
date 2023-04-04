@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1680637268 "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" "report-1.pdf" "report-1" 1680637270 0
-  "/home/vampire/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1677599356 27276 b3565ea480a0b6a14f29b8a5280eba88 ""
+["pdflatex"] 1680637719 "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" "report-1.pdf" "report-1" 1680637722 0
+  "/home/vampire/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1680637715 27596 a685f444cddf88a24d1de9dce498a0f9 ""
   "/home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1676727781 14064 6766bb0e217ed68ec844abf2e510164a ""
   "/home/vampire/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1676727680 19995588 60169692d9e463fd391f641000bbafd7 ""
   "/home/vampire/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1676727765 1444 95ffe0f19b974d50849790c8225c7ef7 ""
@@ -65,15 +65,16 @@
   "/home/vampire/.miktex/texmfs/install/tex/latex/setspace/setspace.sty" 1676727750 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/home/vampire/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty" 1676727724 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "/home/vampire/.miktex/texmfs/install/tex/latex/url/url.sty" 1676727756 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" 1680637264 11806 ffd6e7ca1cc46f58355517815e0a828f ""
+  "/media/vampire/omp/seminar/Seminar/Latex-main/report-1.tex" 1680637662 12170 ffe822dbad4e5eafb331d6378dd14791 ""
   "Bank_card.png" 1680636859 197803 9b38c18ba358df9b5d311b5183007e57 ""
   "Sub-GHz.png" 1677688715 822059 ac90e914be87ca1ff1630cc39c69f498 ""
+  "Unknown_card.png" 1680636913 192872 4fdd6e99a0508b92a085534953809bdf ""
   "flipper-zero.png" 1677599508 1765303 35f54207c10b315c2571b50a16408322 ""
   "fun.png" 1675128582 338986 69d97aaf1a2c69323b642081c969ad1c ""
   "logo.png" 1676746897 155075 6f576a4480691240d5da3ae796073384 ""
-  "report-1.aux" 1680637270 3222 a71cb93a305fe873ae8489c1164feb13 "pdflatex"
-  "report-1.tex" 1680637264 11806 ffd6e7ca1cc46f58355517815e0a828f ""
-  "report-1.toc" 1680637270 1504 74e550b9e6adc664ab5297191f62d7fd "pdflatex"
+  "report-1.aux" 1680637722 3256 7d20d724c19bc6f7a3d22c5c699704dd "pdflatex"
+  "report-1.tex" 1680637662 12170 ffe822dbad4e5eafb331d6378dd14791 ""
+  "report-1.toc" 1680637722 1504 74e550b9e6adc664ab5297191f62d7fd "pdflatex"
   (generated)
   "report-1.aux"
   "report-1.log"
