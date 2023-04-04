@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  5 APR 2023 00:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  5 APR 2023 01:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,6 +224,9 @@ LaTeX Warning: Label `fig:type.png' multiply defined.
 
 LaTeX Warning: Label `fig:type.png' multiply defined.
 
+
+LaTeX Warning: Label `fig:type.png' multiply defined.
+
 )
 \openout1 = `report-1.aux'.
 
@@ -380,10 +383,16 @@ Package pdftex.def Info: Sub-GHz.png  used on input line 162.
 (pdftex.def)             Requested size: 298.75264pt x 156.0545pt.
 [7
 
- <./Sub-GHz.png>] [8]
+ <./Sub-GHz.png>]
+<Bank_card.png, id=41, 2671.9825pt x 919.435pt>
+File: Bank_card.png Graphic file (type png)
+<use Bank_card.png>
+Package pdftex.def Info: Bank_card.png  used on input line 179.
+(pdftex.def)             Requested size: 298.75264pt x 102.79362pt.
+ [8 <./Bank_card.png>]
 Chapter 5.
 
-Overfull \hbox (3.80696pt too wide) in paragraph at lines 181--182
+Overfull \hbox (3.80696pt too wide) in paragraph at lines 186--187
 \OT1/cmr/m/n/12 Flipper Zero is a versatile, open-source hacking device that combines multiple features
  []
 
@@ -403,17 +412,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5315 strings out of 478309
- 84648 string characters out of 5840434
+ 5322 strings out of 478309
+ 84770 string characters out of 5840434
  1857346 words of memory out of 5000000
- 25389 multiletter control sequences out of 15000+600000
+ 25395 multiletter control sequences out of 15000+600000
  519299 words of font info for 56 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  57i,12n,62p,833b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (12 pages, 3688033 bytes).
+Output written on report-1.pdf (12 pages, 3862152 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
