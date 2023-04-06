@@ -469,6 +469,13 @@ INPUT ./EM_marin.png
 INPUT ./EM_marin.png
 INPUT ./EM_marin.png
 INPUT ./EM_marin.png
+INPUT ./hid.png
+INPUT ./hid.png
+INPUT hid.png
+INPUT ./hid.png
+INPUT ./hid.png
+INPUT ./hid.png
+INPUT ./hid.png
 INPUT report-1.aux
 INPUT /home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk
 INPUT /home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk

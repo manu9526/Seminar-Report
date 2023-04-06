@@ -20,7 +20,7 @@
 \contentsline {section}{\numberline {4.1}Sub-GHz}{7}{}%
 \contentsline {section}{\numberline {4.2}NFC}{7}{}%
 \contentsline {section}{\numberline {4.3}125kHz RFID}{8}{}%
-\contentsline {section}{\numberline {4.4}Infrared}{9}{}%
-\contentsline {section}{\numberline {4.5}iButton}{9}{}%
-\contentsline {chapter}{\numberline {5}CONCLUSIONS}{10}{}%
-\contentsline {chapter}{\numberline {6}REFERENCES}{11}{}%
+\contentsline {section}{\numberline {4.4}Infrared}{10}{}%
+\contentsline {section}{\numberline {4.5}iButton}{10}{}%
+\contentsline {chapter}{\numberline {5}CONCLUSIONS}{11}{}%
+\contentsline {chapter}{\numberline {6}REFERENCES}{12}{}%
