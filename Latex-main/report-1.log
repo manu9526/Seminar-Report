@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  5 APR 2023 01:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  6 APR 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -397,18 +397,23 @@ File: Unknown_card.png Graphic file (type png)
 <use Unknown_card.png>
 Package pdftex.def Info: Unknown_card.png  used on input line 188.
 (pdftex.def)             Requested size: 298.75264pt x 105.70256pt.
- [8 <./Bank_card.png> <./Unknown_card.png>]
+
+Overfull \hbox (7.54291pt too wide) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 support encryption, authentication, and cryptography. These tags are commonly
+ []
+
+[8 <./Bank_card.png> <./Unknown_card.png>] [9]
 Chapter 5.
 
-Overfull \hbox (3.80696pt too wide) in paragraph at lines 196--197
+Overfull \hbox (3.80696pt too wide) in paragraph at lines 201--202
 \OT1/cmr/m/n/12 Flipper Zero is a versatile, open-source hacking device that combines multiple features
  []
 
-[9
+[10
 
 ]
 Chapter 6.
-[10
+[11
 
 ] (report-1.aux)
 
@@ -428,9 +433,9 @@ Here is how much of TeX's memory you used:
  0 hyphenation exceptions out of 8191
  57i,12n,62p,833b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (12 pages, 4029106 bytes).
+Output written on report-1.pdf (13 pages, 4030890 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
