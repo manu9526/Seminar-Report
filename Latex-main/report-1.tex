@@ -195,6 +195,13 @@ RFID is a contactless radio-tag technology. It is quite common and you may see i
   \item \textbf{Low-Frequency tags (125 kHz)} — work at a higher range. Despite being insecure and dumb, they are still used in primitive access control systems: in building intercoms, offices, sports facilities, museums.
   \item \textbf{High-Frequency tags (13.56 MHz)} — have a lower effective range when compared with the low-frequency ones but have more complex protocols. They support encryption, authentication, and cryptography. These tags are commonly used in contactless bank cards, to pay for public transport, and in high-security access control systems.
   \end{itemize}
+  \textbf{Popular 125 kHz protocols}
+  
+  \begin{itemize}
+    \item \textbf{EM-Marin} — EM4100, EM4102. The most popular protocol in CIS. Can be read from about a meter because of its simplicity and stability. In this EM-Marin card in the physical card is possible to read the last 3 of 5 bytes in clear.
+    The other 2 can be brute-forced if you cannot read them from the card.
+  \end{itemize}
+
 \section{Infrared}
 \section{iButton}
 \chapter{CONCLUSIONS}
