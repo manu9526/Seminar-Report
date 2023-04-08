@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  8 APR 2023 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.18)  8 APR 2023 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,20 +242,20 @@ LaTeX Warning: Label `fig:type.png' multiply defined.
 )
 \openout1 = `report-1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -309,35 +309,35 @@ LaTeX Font Info:    ... okay on input line 40.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 44.
+(Font)              size <20.74> substituted on input line 42.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 44.
+(Font)              size <20.74> substituted on input line 42.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 45.
+(Font)              size <14.4> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 46.
+(Font)              size <14.4> substituted on input line 44.
 
 <logo.png, id=1, 60.7068pt x 59.62276pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 50.
-(pdftex.def)             Requested size: 298.75264pt x 293.50958pt.
+Package pdftex.def Info: logo.png  used on input line 48.
+(pdftex.def)             Requested size: 213.39568pt x 209.59706pt.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 58.
+(Font)              size <20.74> substituted on input line 56.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 59.
+(Font)              size <20.74> substituted on input line 57.
 
 
-Overfull \hbox (87.79028pt too wide) in paragraph at lines 61--81
+Overfull \hbox (87.79028pt too wide) in paragraph at lines 59--79
 $[]$ $[]$ 
  []
 
@@ -352,7 +352,7 @@ $[]$ $[]$
 ]
 Chapter 1.
 
-Overfull \hbox (8.40431pt too wide) in paragraph at lines 109--110
+Overfull \hbox (8.40431pt too wide) in paragraph at lines 107--108
 []\OT1/cmr/m/n/12 Despite its many advantages, it is important to be aware of the potential limitations
  []
 
@@ -363,10 +363,10 @@ Chapter 2.
 <flipper-zero.png, id=20, 1606.0pt x 903.375pt>
 File: flipper-zero.png Graphic file (type png)
 <use flipper-zero.png>
-Package pdftex.def Info: flipper-zero.png  used on input line 118.
+Package pdftex.def Info: flipper-zero.png  used on input line 116.
 (pdftex.def)             Requested size: 298.75264pt x 168.0453pt.
 
-Overfull \hbox (2.5667pt too wide) in paragraph at lines 122--123
+Overfull \hbox (2.5667pt too wide) in paragraph at lines 120--121
 \OT1/cmr/m/n/12 Flipper Zero is designed to perform various hacking tasks, including sniffing, spoofing,
  []
 
@@ -377,12 +377,12 @@ Chapter 3.
 <fun.png, id=28, 1017.8025pt x 658.46pt>
 File: fun.png Graphic file (type png)
 <use fun.png>
-Package pdftex.def Info: fun.png  used on input line 143.
+Package pdftex.def Info: fun.png  used on input line 141.
 (pdftex.def)             Requested size: 298.75264pt x 193.26942pt.
 [5
 
  <./fun.png>]
-Overfull \hbox (8.37636pt too wide) in paragraph at lines 151--152
+Overfull \hbox (8.37636pt too wide) in paragraph at lines 149--150
 \OT1/cmr/m/n/12 Flipper Zero can block or disrupt wireless communications between devices, preventing
  []
 
@@ -391,7 +391,7 @@ Chapter 4.
 <Sub-GHz.png, id=37, 2288.55pt x 1195.46625pt>
 File: Sub-GHz.png Graphic file (type png)
 <use Sub-GHz.png>
-Package pdftex.def Info: Sub-GHz.png  used on input line 162.
+Package pdftex.def Info: Sub-GHz.png  used on input line 160.
 (pdftex.def)             Requested size: 298.75264pt x 156.0545pt.
 [7
 
@@ -399,15 +399,15 @@ Package pdftex.def Info: Sub-GHz.png  used on input line 162.
 <Bank_card.png, id=41, 2671.9825pt x 919.435pt>
 File: Bank_card.png Graphic file (type png)
 <use Bank_card.png>
-Package pdftex.def Info: Bank_card.png  used on input line 179.
+Package pdftex.def Info: Bank_card.png  used on input line 177.
 (pdftex.def)             Requested size: 298.75264pt x 102.79362pt.
 <Unknown_card.png, id=42, 2643.8775pt x 935.495pt>
 File: Unknown_card.png Graphic file (type png)
 <use Unknown_card.png>
-Package pdftex.def Info: Unknown_card.png  used on input line 188.
+Package pdftex.def Info: Unknown_card.png  used on input line 186.
 (pdftex.def)             Requested size: 298.75264pt x 105.70256pt.
 
-Overfull \hbox (7.54291pt too wide) in paragraph at lines 196--197
+Overfull \hbox (7.54291pt too wide) in paragraph at lines 194--195
 \OT1/cmr/m/n/12 support encryption, authentication, and cryptography. These tags are commonly
  []
 
@@ -415,23 +415,23 @@ Overfull \hbox (7.54291pt too wide) in paragraph at lines 196--197
 <EM_marin.png, id=47, 670.505pt x 400.49625pt>
 File: EM_marin.png Graphic file (type png)
 <use EM_marin.png>
-Package pdftex.def Info: EM_marin.png  used on input line 208.
+Package pdftex.def Info: EM_marin.png  used on input line 206.
 (pdftex.def)             Requested size: 298.75264pt x 178.44331pt.
 <hid.png, id=48, 676.5275pt x 301.125pt>
 File: hid.png Graphic file (type png)
 <use hid.png>
-Package pdftex.def Info: hid.png  used on input line 217.
+Package pdftex.def Info: hid.png  used on input line 215.
 (pdftex.def)             Requested size: 298.75264pt x 132.97784pt.
  [9 <./EM_marin.png> <./hid.png>]
 <ibutton.png, id=52, 963.6pt x 542.025pt>
 File: ibutton.png Graphic file (type png)
 <use ibutton.png>
-Package pdftex.def Info: ibutton.png  used on input line 236.
+Package pdftex.def Info: ibutton.png  used on input line 234.
 (pdftex.def)             Requested size: 213.39568pt x 120.03157pt.
  [10 <./ibutton.png (PNG copy)>]
 Chapter 5.
 
-Overfull \hbox (3.80696pt too wide) in paragraph at lines 240--241
+Overfull \hbox (3.80696pt too wide) in paragraph at lines 238--239
 \OT1/cmr/m/n/12 Flipper Zero is a versatile, open-source hacking device that combines multiple features
  []
 
@@ -459,7 +459,7 @@ Here is how much of TeX's memory you used:
  0 hyphenation exceptions out of 8191
  57i,12n,62p,833b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/vampire/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vampire/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (14 pages, 4607160 bytes).
+Output written on report-1.pdf (14 pages, 4607154 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
